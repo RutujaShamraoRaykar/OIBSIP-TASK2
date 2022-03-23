@@ -1,0 +1,33 @@
+header {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+}
+
+article {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+footer {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 50;
+    height: justify;
+}
